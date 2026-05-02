@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "outputDirectory": "public",
-  "installCommand": "",
-  "buildCommand": ""
-
-  {
-  "version": 2,
   "builds": [
     {
       "src": "index.html",
@@ -22,5 +16,4 @@
       "dest": "/index.html"
     }
   ]
-}
 }
